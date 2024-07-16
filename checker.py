@@ -46,3 +46,5 @@ if __name__ == "__main__":
         extract_even_dict(arrays)
 
 ## json은 순서가 없음
+## commit 메세지 작성 규칙도 존재
+## 포트폴리오 제출 시 이것도 고려를 해야 됨
